@@ -125,12 +125,18 @@ npm start
 
 ## 📷 Screenshots
 
-*Add screenshots of:*
-
 * Login / Register page
+![](Login%20page.png)
+
 * Dashboard
+![](Dashboard.png)
+
 * Sweet listing
+![](Sweets%20Listing.png)
+
 * Admin panel
+![](Admin%20Panel.png)
+
 
 ---
 
