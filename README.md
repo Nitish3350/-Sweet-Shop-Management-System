@@ -50,20 +50,18 @@ The project follows **Test-Driven Development (TDD)** and clean coding practices
 
 ### Backend
 
-* **Framework**: (Choose one)
+* **Framework**: 
 
   * Node.js (Express / NestJS)
-  * Python (FastAPI / Django)
-  * Java (Spring Boot)
-* **Database**: PostgreSQL / MongoDB / SQLite
+* **Database**: MongoDB 
 * **Authentication**: JWT
-* **Testing**: Jest / PyTest / JUnit (TDD approach)
+* **Testing**: JUnit 
 
 ### Frontend
 
-* **Framework**: React (or Vue / Angular / Svelte)
-* **Styling**: CSS / Tailwind / Material UI
-* **API Communication**: Axios / Fetch
+* **Framework**: React 
+* **Styling**: CSS 
+* **API Communication**: Axios 
 
 ---
 
@@ -161,9 +159,13 @@ AI significantly reduced development time and helped maintain best practices, bu
 
 ## 📦 Deployment
 
-The application is deployed using **Replit** for demonstration purposes.
+The application is currently deployed on **Replit** for **demonstration, evaluation, and interview review purposes**.
 
-🔗 Live URL: [https://25416408-79a3-4a56-98b0-bb9e85ebe53b-00-ylafudixkdgs.riker.replit.dev/](https://25416408-79a3-4a56-98b0-bb9e85ebe53b-00-ylafudixkdgs.riker.replit.dev/)
+Replit enables rapid full-stack deployment with a publicly accessible URL, making it suitable for showcasing functionality, API integration, and end-to-end workflows during assessments and demos.
+
+🔗 **Live Demo**: [https://25416408-79a3-4a56-98b0-bb9e85ebe53b-00-ylafudixkdgs.riker.replit.dev/](https://25416408-79a3-4a56-98b0-bb9e85ebe53b-00-ylafudixkdgs.riker.replit.dev/)
+
+> ⚠️ Note: Replit is used here as a **development and demo hosting platform**, not as a production-grade deployment environment. For real-world production use, the application can be migrated to platforms such as **Vercel/Netlify (Frontend)** and **Render/Railway/AWS (Backend)** with a managed cloud database.
 
 ---
 
@@ -181,4 +183,5 @@ Computer Engineering | Full Stack Development | TDD Practitioner
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
